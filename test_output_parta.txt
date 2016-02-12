@@ -1,0 +1,32 @@
+{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset0 Monaco;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720
+
+\f0\fs22 \cf0 it is initially facing up: heads\
+\
+1th toss, it is facing up: tails\
+2th toss, it is facing up: tails\
+3th toss, it is facing up: tails\
+4th toss, it is facing up: heads\
+5th toss, it is facing up: heads\
+6th toss, it is facing up: tails\
+7th toss, it is facing up: heads\
+8th toss, it is facing up: tails\
+9th toss, it is facing up: tails\
+10th toss, it is facing up: tails\
+11th toss, it is facing up: tails\
+12th toss, it is facing up: tails\
+13th toss, it is facing up: tails\
+14th toss, it is facing up: tails\
+15th toss, it is facing up: tails\
+16th toss, it is facing up: tails\
+17th toss, it is facing up: tails\
+18th toss, it is facing up: heads\
+19th toss, it is facing up: tails\
+20th toss, it is facing up: heads\
+it has 5 heads\
+it has 15 tails\
+}
